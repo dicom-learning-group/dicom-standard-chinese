@@ -1,4 +1,4 @@
-<h1 align="center">总览</h1>
+<h1 align="center">PS3.1 总览</h1>
 
 ## 目录
 
@@ -31,7 +31,7 @@ NEMA没有任何权利，也不会承担任何责任或强制遵守本出版物�
 
 DICOM标准委员会是一个独立的、国际性的标准制定组织，由生物医学专业协会中专门负责医学成像，医学成像设备以及相关信息系统使用的部门、政府机构、行业协会以及其他对医学成像信息和相关数据的标准化感兴趣的标准制定组织组成。成员资格对所有委员会中有重大利益的组织开放。该委员会与医疗信息和医疗实工程中电气设备领域的其他组织合作紧密。委员会秘书处是美国国家电气制造商协会和它的医学影像和技术联盟部门。
 
-委员会的主要产品是本标准：医学数据影像和通信标准 (DICOM)
+委员会的主要产品是本标准：医疗数字影像传输协议 (DICOM)
 
 DICOM标准使用基于 [ISO/IEC Directives, Part 2](#iso-iec-directives-part-2) 的指南构建的多部分文档。
 
@@ -45,7 +45,11 @@ SNOMED&reg:, SNOMED Clinical Terms&reg:, SNOMED CT&reg: 是 International Health
 
 LOINC&reg: 是 Regenstrief Institute, Inc, 的注册商标，其保留所有权利。
 
-2. <a name="normative-references"></a> 其他标准的参考文献
+### 1 <a name="scope-and-field-of-application"></a> 适用范围和作用领域
+
+PS3.1 提供了医疗数字影像传输协议 (DICOM) 的概述，包括其历史，范围，目标和结构。特别是它包括了该标准各个部分内容的简要说明。
+
+### 2 <a name="normative-references"></a> 其他标准的参考文献
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
 
