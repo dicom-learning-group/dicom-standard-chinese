@@ -5,7 +5,7 @@
 * [声明](#notice-and-disclaimer)
 * [前言](#foreword)
 * 1.[适用范围和作用领域](#scope-and-field-of-application)
-    * 1.1.[DICOM适用范围](#scope-of-dICOM)
+    * 1.1.[DICOM适用范围](#scope-of-dicom)
     * 1.2.[作用领域](#field-of-application)
     * 1.3.[历史](#history)
     * 1.4.[原则](#principles)
@@ -49,7 +49,7 @@ LOINC&reg: 是 Regenstrief Institute, Inc, 的注册商标，其保留所有权�
 
 PS3.1 提供了医疗数字影像传输协议 (DICOM)的概述，包括其历史，范围，目标和结构。特别是它包括了该标准各个部分内容的简要说明。
 
-#### 1.1 DICOM的范围
+#### <a name="scope-of-dicom"></a>1.1 DICOM的范围
 
 医疗数字影像传输协议 (DICOM)是有关医疗影像信息和相关数据通信和管理的标准。
 
