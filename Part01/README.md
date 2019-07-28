@@ -2,18 +2,18 @@
 
 ## 目录
 
-[声明](#notice-and-disclaimer)
-[前言](#foreword)
-1. [适用范围和作用领域](#scope-and-field-of-application)
-    1.1. [DICOM适用范围](#scope-of-dICOM)
-    1.2. [作用领域](#field-of-application)
-    1.3. [历史](#history)
-    1.4. [原则](#principles)
-        1.4.1 [国际化和本地化](#global-applicability-and-localization)
-        1.4.2 [持续维护](#continuous-maintenance)
-        1.4.3 [信息对象和唯一对象识别](#information-objects-and-unique-object-identification)
-        1.4.4 [一致性](#conformance)
-        1.4.5 [信息模型的一致性](#consistency-of-information-model)
+* [声明](#notice-and-disclaimer)
+* [前言](#foreword)
+* 1.[适用范围和作用领域](#scope-and-field-of-application)
+    * 1.1.[DICOM适用范围](#scope-of-dICOM)
+    * 1.2.[作用领域](#field-of-application)
+    * 1.3.[历史](#history)
+    * 1.4.[原则](#principles)
+        * 1.4.1.[国际化和本地化](#global-applicability-and-localization)
+        * 1.4.2.[持续维护](#continuous-maintenance)
+        * 1.4.3.[信息对象和唯一对象识别](#information-objects-and-unique-object-identification)
+        * 1.4.4.[一致性](#conformance)
+        * 1.4.5.[信息模型的一致性](#consistency-of-information-model)
 
 ### <a name="notice-and-disclaimer"></a> 声明
 
