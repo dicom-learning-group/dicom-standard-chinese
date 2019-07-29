@@ -39,11 +39,11 @@ DICOM标准使用基于 [ISO/IEC Directives, Part 2](#iso-iec-directives-part-2)
 
 DICOM&reg; 是美国国家电气制造商协会的注册商标，用于其医疗信息数字通信相关的标准出版物上保留所有权利。
 
-HL7&reg: 和 CDA&reg: 是 Health Level Seven International 的注册商标，其保留所有权利。
+HL7&reg; 和 CDA&reg; 是 Health Level Seven International 的注册商标，其保留所有权利。
 
-SNOMED&reg:, SNOMED Clinical Terms&reg:, SNOMED CT&reg: 是 International Health Terminology Standards Development Organisation (IHTSDO) 的注册商标，其保留所有权利。
+SNOMED&reg;, SNOMED Clinical Terms&reg;, SNOMED CT&reg; 是 International Health Terminology Standards Development Organisation (IHTSDO) 的注册商标，其保留所有权利。
 
-LOINC&reg: 是 Regenstrief Institute, Inc, 的注册商标，其保留所有权利。
+LOINC&reg; 是 Regenstrief Institute, Inc, 的注册商标，其保留所有权利。
 
 ### 1 <a name="scope-and-field-of-application"></a> 适用范围和作用领域
 
