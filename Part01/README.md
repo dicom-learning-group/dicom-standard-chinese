@@ -108,6 +108,14 @@ DICOM标准不包括以下内容：
 
 * 标准评估相关的测试和验证流程。
 
+#### <a name="field-of-application"></a>1.2 作用领域 
+
+DICOM标准属于医学信息领域的范畴。在该领域内，DICOM标准解决了医学成像设备和其他系统之间的信息交换。因为医学成像设备需要与其他医疗设备以及信息系统交互，所以此标准不可避免的会和医疗信息领域的其他领域重叠。但是，对于重叠程度，DICOM标准没有明确的定义。
+
+该标准的制定重点是放射医学，心脏病学，病理学，牙科，眼科及相关学科以及基于图像的疗法（例如放射介入，放射疗法和外科手术）中实践的诊断医学成像。 但是，它也适用于在临床，研究，兽医和其他医学环境中交换的各种图像和非图像相关信息。
+
+该标准促进了在多厂商环境中要求一致性的系统的交互性，但其本身并不能保证交互性。
+
 ### 2 <a name="normative-references"></a> 其他标准的参考文献
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
