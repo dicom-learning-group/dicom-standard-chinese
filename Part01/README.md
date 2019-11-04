@@ -161,6 +161,12 @@ DICOM标准是一个不断发展的标准，并且会按照DICOM标准委员会�
 
 不鼓励将淘汰的功能用于新的实现方式，应当使用标准中保留的其他替代方法。
 
+##### <a name="information-applicability-and-localization"></a>1.4.3 信息对象和唯一对象识别
+
+许多DICOM服务设计交换持久性信息对象（例如图像）。这样的信息对象实例可能于不同时间在许多系统和许多组织环境之间交换。虽然有些组织会对实例属性进行微小的更改来帮助其内部进行处理（例如将患者ID强制使用本地的值），但是实例的语义内容并没有发生改变。
+
+每个实例由一个全局唯一的标识符进行标识，该标识符会在所有交换中与实例一起保留。对实例语义内容的更改被认为是创建一个新的实例，并为其分配一个新的全局唯一标识符。
+
 ### 2 <a name="normative-references"></a> 其他标准的参考文献
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
