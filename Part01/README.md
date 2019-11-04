@@ -175,6 +175,10 @@ DICOM标准中的SOP类规范仅仅在与该标准的所有版本保持向前和
 
 每个实现都应该根据根据一致的形式结构提供一份一致性声明，以促进不同产品之间的互操作性。
 
+##### <a name="consistency-of-information-model"></a>1.4.5 信息模型的一致性
+
+DICOM标准中有大量信息对象都是遵循通用的符合信息模型，其中的信息实体表示患者，研究，系列，设备，参考帧和特定的实例数据类型。这些信息对象模型是医疗影像现实环境中概念和行为的抽象。对于获取方式，“研究”打野等同于一个有序的过程，而“系列”则大约等同于一个展示数据的有序协议类型。在其他领域，比如放射性治疗，“研究”和“系列”与现实世界的实体或者行为之间的联系不明确，但是仍然需要保持一致性。这种简化后的模型足以满足正常实现中管理影像和相关数据的需求。
+
 ### 2 <a name="normative-references"></a> 其他标准的参考文献
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
