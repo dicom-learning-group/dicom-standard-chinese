@@ -167,6 +167,14 @@ DICOM标准是一个不断发展的标准，并且会按照DICOM标准委员会�
 
 每个实例由一个全局唯一的标识符进行标识，该标识符会在所有交换中与实例一起保留。对实例语义内容的更改被认为是创建一个新的实例，并为其分配一个新的全局唯一标识符。
 
+##### <a name="conformance"></a>1.4.4 一致性
+
+DICOM标准的一致性在SOP（服务对象匹配）类中进行声明，该类主要负责服务（比如使用网络，媒体和Web的存储）如何来操作信息对象类型（比如CT或者MR图像）。
+
+DICOM标准中的SOP类规范仅仅在与该标准的所有版本保持向前和向后兼容的方式进行更改。因此，一致性声明和要求都是参考的SOP类的标识符，而不是DICOM标准的版本。
+
+每个实现都应该根据根据一致的形式结构提供一份一致性声明，以促进不同产品之间的互操作性。
+
 ### 2 <a name="normative-references"></a> 其他标准的参考文献
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
