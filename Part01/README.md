@@ -149,6 +149,18 @@ DICOM标准是一个全球性的标准，适用于任何地区。它提供了适
 
 可以在DICOM标准范围之外的多种机制中指定本地化和配置文件。比如医疗卫生企业（IHE）的集成配置文件。配置必须坚持不矛盾的观点这一点很重要。配置可以添加要求但是不能和DICOM要求相抵触，因为这将使得同时满足DICOM标准和配置文件变得不可能。
 
+##### <a name="continuous-maintenance"></a>1.4.2 持续维护
+
+DICOM标准是一个不断发展的标准，并且会按照DICOM标准委员会的流程进行维护。任何来自该标准的用户关于增强标准的提案都是受欢迎的，并且可以向秘书处提交。该标准的补充和修订每年会进行几次投票和批准，当最终版本获得批准后，每项更改都会成为正式版本，分别发布并立即生效。每隔一段时间，所有批准的最终文本更改都会合并并发布在标准的更新版本中。一旦将变更合并到标准的最新版本中，就不在维护单个版本的变更文档，读者会被引导使用标准的合并版。
+
+更新标准的基本要求就是要保持和先前版本的兼容性。
+
+维护流程可能设涉及到部分版本的淘汰。
+
+淘汰并不意味着这些功能无法使用。但是DICOM标准委员会不在维护这些淘汰功能的文档。读者可以参考该标准的先前版本。
+
+不鼓励将淘汰的功能用于新的实现方式，应当使用标准中保留的其他替代方法。
+
 ### 2 <a name="normative-references"></a> 其他标准的参考文献
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
