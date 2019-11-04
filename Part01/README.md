@@ -183,6 +183,14 @@ DICOM标准中有大量信息对象都是遵循通用的符合信息模型，其
 
 <a name="iso-iec-directives-part-2"></a>[ISO/IEC Directives, Part 2] ISO/IEC. 2016/05. 7.0. Rules for the structure and drafting of International Standards. [http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf](http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-2%7Bed7.0%7Den.pdf).
 
+<a name="acr-nema-300"></a>[ACR/NEMA 300] ACR/NEMA. 1988. Digital Imaging and Communications.
+
+<a name="iso-iec-8822"></a>[ISO/IEC 8822] ISO/IEC. 1994. Information Processing Systems - Open Systems Interconnection - Connection Oriented Presentation Service Definition.
+
+<a name="iso-iec-85649"></a>[ISO/IEC 8649] ISO/IEC. 1996. Information Processing Systems - Open Systems Interconnection - Service Definition for the Association Control Service Element. Withdrawn 2012. .
+
+
+
 ## 译者注
 
 [1] <a name="nema">NEMA</a>: 美国国家电气制造商协会
