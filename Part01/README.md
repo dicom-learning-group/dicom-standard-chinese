@@ -189,7 +189,83 @@ DICOM标准中有大量信息对象都是遵循通用的符合信息模型，其
 
 <a name="iso-iec-85649"></a>[ISO/IEC 8649] ISO/IEC. 1996. Information Processing Systems - Open Systems Interconnection - Service Definition for the Association Control Service Element. Withdrawn 2012. .
 
+### 3 <a name="definitions"></a> 名词释义
 
+**属性（Attribute）**
+
+&emsp;&emsp;信息对象的属性。属性具有独立于任何编码方式的名称和值
+
+**指令（Command）**
+
+&emsp;&emsp;通过网络操作信息的请求。
+
+**指令元素（Command Element）**
+
+&emsp;&emsp;传递参数值的指令对该参数的编码。
+
+**指令流（Command Steam）**
+
+&emsp;&emsp;使用DICOM编码方式对一组指令元素编码的结果。
+
+**标准性声明（Conformance Statement）**
+
+&emsp;&emsp;描述DICOM标准的特定实现的正式声明。他指定了实现需要支持的服务类，信息对象，通信协议，安全配置和媒体存储应用配置。
+
+**数据字典（Data Dictionary）**
+
+&emsp;&emsp;DICOM数据元素的注册变，每个数据元素有唯一的标签，名字，值字符和语义。
+
+**数据元素（Data Element）**
+
+&emsp;&emsp;数据字典中单个条目定义的信息单元。
+
+**数据集（Data Set）**
+
+&emsp;&emsp;用于信息交换的一系列结构化的属性集组成，数据集中的每个属性值都是一个数据元素
+
+**数据流（Data Stream）**
+
+&emsp;&emsp;使用DICOM编码方案（由数据字典指定的数据元素编号和表示形式）对数据集进行编码的结果。 
+
+**信息对象（Information Object）**
+
+&emsp;&emsp;由一个或多个DICOM指令作用的真实信息实体（例如CT图像，结构化的报告等）的抽象。
+
+&emsp;&emsp;***提示***
+
+&emsp;&emsp;&emsp;&emsp;*这个术语主要在 PS3.1 中使用，在 [PS3.3](../Part03/README.md) 中有一些参考。它是 [PS3.3](../Part03/README.md) 中引入的正式术语对应的一个非正式术语。在DICOM标准的其他部分中，它的正式术语是“信息对象定义”(Information Object Definition)。*
+
+**信息对象类（Information Object Class）**
+
+&emsp;&emsp;信息对象的正式描述，包括对他的用途和拥有的属性的描述，但是不包括这些属性的值。
+
+&emsp;&emsp;***提示***
+
+&emsp;&emsp;&emsp;&emsp;*这个术语主要在 PS3.1 中使用。它是 [PS3.4](../Part04/README.md) 中引入的正式术语对应的一个非正式术语。正式的术语应当是服务对象配对类(Sevice-Object Pair Class)*，或者更为通用的说法是SOP类。
+
+**信息对象实例（Information Object Instance）**
+
+&emsp;&emsp;现实世界中实体表现的具体形式，其中包括试题所属的信息对象类的属性值。
+
+&emsp;&emsp;***提示***
+
+&emsp;&emsp;&emsp;&emsp;*这个术语主要在 PS3.1 中使用。它是 [PS3.4](../Part04/README.md) 中引入的正式术语对应的一个非正式术语。正式的术语应当是服务对象配对实例(Sevice-Object Pair Instance)*，或者更为通用的说法是SOP实例。
+
+**消息（Message）**
+
+&emsp;&emsp;在两个DICOM程序之间信息交互协议的数据单元。消息由指令流和可选的数据流组成。
+
+**部分（Part）**
+
+&emsp;&emsp;DICOM标准的细分，涵盖相关主题的资料。
+
+**服务类（Service Class）**
+
+&emsp;&emsp;通过使用作用于特定信息对象类的DICOM命令帮助DICOM程序的服务的结构化描述。
+
+**服务对象配对类（Service-Object Part Class (SOP Class)）**
+
+&emsp;&emsp;一组信息对象和DIMSE服务组或者媒体存储服务或者Web服务。
 
 ## 译者注
 
