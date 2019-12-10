@@ -267,6 +267,68 @@ DICOM标准中有大量信息对象都是遵循通用的符合信息模型，其
 
 &emsp;&emsp;一组信息对象和DIMSE服务组或者媒体存储服务或者Web服务。
 
+### 4 <a name="symbols-and-abbreviations"></a> 符号和缩写
+
+&emsp;&emsp;ACSE
+
+&emsp;&emsp;&emsp;&emsp;连接控制服务元素 (Association Control Service Element)
+
+&emsp;&emsp;CT
+
+&emsp;&emsp;&emsp;&emsp;断层扫描 (Computed Tomography)
+
+&emsp;&emsp;DICOM
+
+&emsp;&emsp;&emsp;&emsp;医学数字成像和通信标准 (Digital Imaging and Communications in Medicine)
+
+&emsp;&emsp;DIMSE
+
+&emsp;&emsp;&emsp;&emsp;DICOM消息服务元素 (DICOM Message Service Element)
+
+&emsp;&emsp;HIS
+
+&emsp;&emsp;&emsp;&emsp;医院信息系统 (Hospital Information System)
+
+&emsp;&emsp;JIRA
+
+&emsp;&emsp;&emsp;&emsp;日本医学影像与放射系统产业协会 (Japan Medical Imaging and Radiological Systems Industries Association)
+
+&emsp;&emsp;OSI
+
+&emsp;&emsp;&emsp;&emsp;开放系统互联 (Open Systems Interconnection)
+
+&emsp;&emsp;PACS
+
+&emsp;&emsp;&emsp;&emsp;影像存档和通信系统 (Picture Archiving and Communication Systems)
+
+&emsp;&emsp;REST
+
+&emsp;&emsp;&emsp;&emsp;表述性状态迁移 (Representational State Transfer)
+
+&emsp;&emsp;RESTful
+
+&emsp;&emsp;&emsp;&emsp;RESTful Web服务是使用REST风格结构和HTTP实现的网络服务 (参考[http://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf](http://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf))
+
+&emsp;&emsp;RIS
+
+&emsp;&emsp;&emsp;&emsp;放射学信息系统 (Radiology Information System)
+
+&emsp;&emsp;STOW-RS
+
+&emsp;&emsp;&emsp;&emsp;通过RESTful Web的方式进行保存 (Store Over the Web by RESTful Services)
+
+&emsp;&emsp;TCP/IP
+
+&emsp;&emsp;&emsp;&emsp;传输控制协议 / 互联网协议 (Transmission Control Protocol/Internet Protocol)
+
+&emsp;&emsp;WADO-RS
+
+&emsp;&emsp;&emsp;&emsp;通过RESTful Web的方式访问DICOM对象 (Web Access to DICOM Objects by RESTful Services)
+
+&emsp;&emsp;WADO-URI
+
+&emsp;&emsp;&emsp;&emsp;通过URI Web的方式访问DICOM对象 (Web Access to DICOM Objects by URI)
+
 ## 译者注
 
 [1] <a name="nema">NEMA</a>: 美国国家电气制造商协会
