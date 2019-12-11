@@ -346,9 +346,10 @@ DICOM标准是为了帮助符合标准的设备之间的交互，特别是：
 * DICOM Web服务API和HTTP服务，它允许使用通用超文本和相关协议来传输DICOM服务
 * 基本DICOM文件服务，可独立于特定的介质存储格式和文件结构访问存储介质。
 
-![](PS3.1_5-1.svg)
-
-<p align="center"><a name="PS3.1_5-1"></a>图表5-1 通用通信模型</p>
+<div style="text-align: center">
+<img src="PS3.1_5-1.svg"/>
+<p><a name="PS3.1_5-1"></a>图表5-1 通用通信模型</p>
+</div>
 
 ## 译者注
 
