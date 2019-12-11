@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="542px" height="552px" viewBox="0 0 542 552" enable-background="new 0 0 542 552" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.1 Introduction and Overview
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F4ECC0" width="540" height="550"/>
+	<g>
+		
+			<rect x="21.099" y="81.449" fill="#C7D4E2" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="500" height="165"/>
+		
+			<line fill="none" stroke="#276092" stroke-width="7" stroke-linecap="round" stroke-miterlimit="1" x1="95.938" y1="115.308" x2="95.938" y2="527.554"/>
+		<g>
+			<path fill="#D4DCE6" d="M16,266.126c0-1.98,1.62-3.6,3.6-3.6h152.8c1.98,0,3.6,1.62,3.6,3.6v32.801c0,1.979-1.62,3.6-3.6,3.6
+				H19.6c-1.98,0-3.6-1.62-3.6-3.6V266.126z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 63.2393 274.9688)"><tspan x="0" y="0" font-size="11">BOUNDARY:</tspan><tspan x="-37.294" y="13.201" font-size="11">DICOM Upper Layer Service</tspan></text>
+		
+			<line fill="#5D89B4" stroke="#276092" stroke-width="4" stroke-linecap="round" stroke-miterlimit="1" x1="20.939" y1="295.353" x2="170.939" y2="295.353"/>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M19.913,511.093c0-1.979,1.62-3.6,3.6-3.6h144.853c1.98,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V511.093z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M19.913,511.093c0-1.979,1.62-3.6,3.6-3.6h144.853
+					c1.98,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V511.093z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 58.1699 519.6284)"><tspan x="0" y="0" font-size="9">Network Exchange</tspan><tspan x="-10.753" y="10.8" font-size="9">On-Line Communication</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M19.913,449.982c0-1.979,1.62-3.6,3.6-3.6h144.853c1.98,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V449.982z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M19.913,449.982c0-1.979,1.62-3.6,3.6-3.6h144.853
+					c1.98,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V449.982z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 48.3701 463.3179)" font-size="9">TCP/IP Transport Layer</text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M19.913,388.871c0-1.979,1.62-3.6,3.6-3.6h144.853c1.98,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V388.871z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" stroke-dasharray="4" d="M19.913,388.871c0-1.979,1.62-3.6,3.6-3.6
+					h144.853c1.98,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V388.871z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 67.125 397.4058)"><tspan x="0" y="0" font-size="9">Security Layer</tspan><tspan x="9.004" y="10.8" font-size="9">(Optional)</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M19.913,327.759c0-1.979,1.62-3.6,3.6-3.6h144.853c1.98,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V327.759z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M19.913,327.759c0-1.979,1.62-3.6,3.6-3.6h144.853
+					c1.98,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H23.513c-1.98,0-3.6-1.62-3.6-3.6V327.759z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 54.874 341.0952)" font-size="9">DICOM Upper Layer</text>
+		</g>
+		
+			<line fill="none" stroke="#276092" stroke-width="7" stroke-linecap="round" stroke-miterlimit="1" x1="270.938" y1="115.308" x2="270.938" y2="527.554"/>
+		<g>
+			<path fill="#D4DCE6" d="M191,266.126c0-1.98,1.62-3.6,3.6-3.6h152.8c1.979,0,3.6,1.62,3.6,3.6v32.801c0,1.979-1.62,3.6-3.6,3.6
+				H194.6c-1.98,0-3.6-1.62-3.6-3.6V266.126z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 238.2393 274.9688)"><tspan x="0" y="0" font-size="11">BOUNDARY:</tspan><tspan x="-5.798" y="13.201" font-size="11">DICOM – HTTP</tspan></text>
+		
+			<line fill="#5D89B4" stroke="#276092" stroke-width="4" stroke-linecap="round" stroke-miterlimit="1" x1="195.939" y1="295.353" x2="345.939" y2="295.353"/>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M194.913,511.093c0-1.979,1.62-3.6,3.6-3.6h144.853c1.979,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V511.093z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M194.913,511.093c0-1.979,1.62-3.6,3.6-3.6h144.853
+					c1.979,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V511.093z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 233.1699 519.6284)"><tspan x="0" y="0" font-size="9">Network Exchange</tspan><tspan x="-10.753" y="10.8" font-size="9">On-Line Communication</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M194.913,449.982c0-1.979,1.62-3.6,3.6-3.6h144.853c1.979,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V449.982z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M194.913,449.982c0-1.979,1.62-3.6,3.6-3.6h144.853
+					c1.979,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V449.982z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 223.3701 463.3179)" font-size="9">TCP/IP Transport Layer</text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M194.913,388.871c0-1.979,1.62-3.6,3.6-3.6h144.853c1.979,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V388.871z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" stroke-dasharray="4" d="M194.913,388.871c0-1.979,1.62-3.6,3.6-3.6
+					h144.853c1.979,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V388.871z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 242.125 397.4058)"><tspan x="0" y="0" font-size="9">Security Layer</tspan><tspan x="9.004" y="10.8" font-size="9">(Optional)</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M194.913,327.759c0-1.979,1.62-3.6,3.6-3.6h144.853c1.979,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V327.759z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M194.913,327.759c0-1.979,1.62-3.6,3.6-3.6h144.853
+					c1.979,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H198.513c-1.98,0-3.6-1.62-3.6-3.6V327.759z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 259.1377 341.0952)" font-size="9">HTTP</text>
+		</g>
+		
+			<line fill="none" stroke="#276092" stroke-width="7" stroke-linecap="round" stroke-miterlimit="1" x1="445.778" y1="115.308" x2="445.778" y2="527.554"/>
+		<g>
+			<path fill="#D4DCE6" d="M366,266.126c0-1.98,1.62-3.6,3.6-3.6H522.4c1.979,0,3.6,1.62,3.6,3.6v32.801c0,1.979-1.62,3.6-3.6,3.6
+				H369.6c-1.979,0-3.6-1.62-3.6-3.6V266.126z"/>
+		</g>
+		<g>
+			<path fill="#D4DCE6" d="M391.258,213.168c0-1.98,1.62-3.6,3.6-3.6h102.801c1.979,0,3.6,1.62,3.6,3.6v17.678
+				c0,1.98-1.62,3.6-3.6,3.6H394.857c-1.979,0-3.6-1.62-3.6-3.6V213.168z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.75" d="M391.258,213.168c0-1.98,1.62-3.6,3.6-3.6h102.801
+				c1.979,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6H394.857c-1.979,0-3.6-1.62-3.6-3.6V213.168z"/>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M370.163,511.093c0-1.979,1.62-3.6,3.6-3.6h144.854c1.979,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H373.763c-1.979,0-3.6-1.62-3.6-3.6V511.093z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" d="M370.163,511.093c0-1.979,1.62-3.6,3.6-3.6h144.854
+					c1.979,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H373.763c-1.979,0-3.6-1.62-3.6-3.6V511.093z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 391.9023 519.646)"><tspan x="0" y="0" font-size="9">Media Storage Interchange</tspan><tspan x="5.766" y="10.8" font-size="9">Off-Line Communication</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#D4DCE6" d="M370.163,327.759c0-1.979,1.62-3.6,3.6-3.6h144.854c1.979,0,3.6,1.62,3.6,3.6v22.229
+					c0,1.979-1.62,3.6-3.6,3.6H373.763c-1.979,0-3.6-1.62-3.6-3.6V327.759z"/>
+				<path fill="none" stroke="#000000" stroke-width="0.75" stroke-dasharray="4" d="M370.163,327.759c0-1.979,1.62-3.6,3.6-3.6
+					h144.854c1.979,0,3.6,1.62,3.6,3.6v22.229c0,1.979-1.62,3.6-3.6,3.6H373.763c-1.979,0-3.6-1.62-3.6-3.6V327.759z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 417.4258 336.312)"><tspan x="0" y="0" font-size="9">Security Layer</tspan><tspan x="9.005" y="10.8" font-size="9">(Optional)</tspan></text>
+		</g>
+		<g>
+			<rect x="368.35" y="377.583" fill="#C7D4E2" width="155.68" height="105.912"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 371.2734 388.0933)" font-size="9">Physical Media and File Formats</text>
+		</g>
+		<g>
+			<polygon fill="#D4DCE6" stroke="#000000" stroke-width="0.75" points="515.643,475.148 464.654,475.148 464.654,407.316 
+				473.291,398.667 515.643,398.667 			"/>
+			<text transform="matrix(1 0 0 1 469.6934 408.186)"><tspan x="0" y="0" font-size="9">&lt;FILE&gt;</tspan><tspan x="0" y="10.8" font-size="9">   &lt;FIELD&gt;</tspan><tspan x="0" y="21.6" font-size="9">   .</tspan><tspan x="0" y="32.4" font-size="9">   .</tspan><tspan x="0" y="43.2" font-size="9">   .</tspan><tspan x="0" y="54" font-size="9">   &lt;/FIELD&gt;</tspan><tspan x="0" y="64.8" font-size="9">&lt;/FILE&gt;</tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 413.0791 274.9688)"><tspan x="0" y="0" font-size="11">BOUNDARY:</tspan><tspan x="-30.868" y="13.201" font-size="11">DICOM Basic File Service</tspan></text>
+		
+			<line fill="#5D89B4" stroke="#276092" stroke-width="4" stroke-linecap="round" stroke-miterlimit="1" x1="370.772" y1="295.353" x2="520.772" y2="295.353"/>
+		<text transform="matrix(1 0 0 1 396.5586 225.8237)" font-size="12">Media Interchange</text>
+		<text transform="matrix(1 0 0 1 22.3491 76.623)" font-size="12">DICOM Application Entity</text>
+		<polyline fill="#5D89B4" points="216.055,15.079 330.665,15.079 330.184,32.566 368.563,32.566 271.56,81.641 173.635,32.566 
+			215.594,32.566 		"/>
+		<text transform="matrix(1 0 0 1 227.4146 29.4858)"><tspan x="0" y="0" fill="#FFFFFF" font-size="12"> Medical Images</tspan><tspan x="-17.687" y="14.4" fill="#FFFFFF" font-size="12">and related information</tspan></text>
+		<g>
+			<path fill="#D4DCE6" d="M40.053,100.297c0-1.98,1.62-3.6,3.6-3.6h455.615c1.979,0,3.6,1.62,3.6,3.6v17.678
+				c0,1.98-1.62,3.6-3.6,3.6H43.653c-1.98,0-3.6-1.62-3.6-3.6V100.297z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.75" d="M40.053,100.297c0-1.98,1.62-3.6,3.6-3.6h455.615
+				c1.979,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6H43.653c-1.98,0-3.6-1.62-3.6-3.6V100.297z"/>
+		</g>
+		<g>
+			<path fill="#D4DCE6" d="M40.053,137.797c0-1.98,1.62-3.6,3.6-3.6h455.615c1.979,0,3.6,1.62,3.6,3.6v17.678
+				c0,1.98-1.62,3.6-3.6,3.6H43.653c-1.98,0-3.6-1.62-3.6-3.6V137.797z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.75" d="M40.053,137.797c0-1.98,1.62-3.6,3.6-3.6h455.615
+				c1.979,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6H43.653c-1.98,0-3.6-1.62-3.6-3.6V137.797z"/>
+		</g>
+		<g>
+			<path fill="#D4DCE6" d="M40.053,175.656c0-1.98,1.62-3.6,3.6-3.6h455.615c1.979,0,3.6,1.62,3.6,3.6v17.678
+				c0,1.98-1.62,3.6-3.6,3.6H43.653c-1.98,0-3.6-1.62-3.6-3.6V175.656z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.75" d="M40.053,175.656c0-1.98,1.62-3.6,3.6-3.6h455.615
+				c1.979,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6H43.653c-1.98,0-3.6-1.62-3.6-3.6V175.656z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 195.8071 112.1348)" font-size="12">Service Class Specifications</text>
+		<text transform="matrix(1 0 0 1 189.4673 150.0308)" font-size="12">Information Objects Definitions</text>
+		<text transform="matrix(1 0 0 1 139.6997 187.9272)" font-size="12">Dataset Structure and Encoding - Data Dictionary</text>
+		<g>
+			<path fill="#D4DCE6" d="M38.442,213.168c0-1.98,1.62-3.6,3.6-3.6h107.8c1.98,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6
+				h-107.8c-1.98,0-3.6-1.62-3.6-3.6V213.168z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.75" d="M38.442,213.168c0-1.98,1.62-3.6,3.6-3.6h107.8
+				c1.98,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6h-107.8c-1.98,0-3.6-1.62-3.6-3.6V213.168z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 43.2432 225.8237)" font-size="12">Message Exchange</text>
+		<g>
+			<path fill="#D4DCE6" d="M213.442,213.168c0-1.98,1.62-3.6,3.6-3.6h107.8c1.979,0,3.6,1.62,3.6,3.6v17.678
+				c0,1.98-1.62,3.6-3.6,3.6h-107.8c-1.98,0-3.6-1.62-3.6-3.6V213.168z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.75" d="M213.442,213.168c0-1.98,1.62-3.6,3.6-3.6h107.8
+				c1.979,0,3.6,1.62,3.6,3.6v17.678c0,1.98-1.62,3.6-3.6,3.6h-107.8c-1.98,0-3.6-1.62-3.6-3.6V213.168z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 233.9316 225.8237)" font-size="12">Web Services</text>
+		<g>
+			<path fill="#9CB6D3" stroke="#000000" stroke-width="0.5" stroke-miterlimit="3.8637" d="M378.993,436.914
+				c0-20.23,16.386-36.616,36.599-36.616c20.234,0,36.616,16.386,36.616,36.616c0,20.221-16.382,36.603-36.616,36.603
+				C395.379,473.516,378.993,457.134,378.993,436.914z"/>
+			<path fill="#D4DCE6" stroke="#000000" stroke-width="0.5" stroke-miterlimit="3.8637" d="M432.797,407.157
+				c4.037,2.146,6.476,4.311,9.437,7.749l-54.138,42.955c2.938,3.957,5.577,6.366,9.852,8.867L432.797,407.157z"/>
+			<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="3.8637" d="M381.169,436.914
+				c0-19.03,15.412-34.44,34.428-34.44c19.027,0,34.439,15.41,34.439,34.44c0,19.015-15.412,34.427-34.439,34.427
+				C396.581,471.34,381.169,455.928,381.169,436.914z"/>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="3.8637" d="M404.79,436.911
+				c0-5.976,4.839-10.814,10.807-10.814c5.98,0,10.818,4.839,10.818,10.814c0,5.971-4.838,10.812-10.818,10.812
+				C409.629,447.722,404.79,442.881,404.79,436.911z"/>
+			<path stroke="#000000" stroke-width="0.5" stroke-miterlimit="3.8637" d="M411.699,436.911c0-2.156,1.749-3.905,3.901-3.905
+				c2.158,0,3.903,1.749,3.903,3.905c0,2.152-1.745,3.902-3.903,3.902C413.448,440.813,411.699,439.063,411.699,436.911z"/>
+		</g>
+	</g>
+</g>
+</svg>
