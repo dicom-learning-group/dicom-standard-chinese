@@ -44,13 +44,13 @@
 
 ## 图表
 
-* 5-1. [通用通信模型](#general-communication-modl)
-* 6.2-1. [网络一致性声明的构建过程](#construction-process-for-a-network-conformance-claim)
-* 6.2-2. [媒体一致性声明的构建过程](#construction-process-for-a-media-conformance-claim)
-* 6.10-1. [DICOM媒体交换通信模型](#dicom-communication-model-for-media-interchange)
-* 6.11-1. [应用配置文件和DICOM部件之间的关系](#relationship-between-an-application-profile-and-parts-of-dicom)
-* 6.19-1. [应用程序和系统直接的接口](#interface-between-a-hosted-application-and-a-hosting-system)
-* 6.19-2. [平台无关的应用程序](#illustration-of-platform-independence-via-the-hosted-application)
+* 5-1. [通用通信模型](#PS3.1_5-1)
+* 6.2-1. [网络一致性声明的构建过程](#PS3.1_6.2-1)
+* 6.2-2. [媒体一致性声明的构建过程](#PS3.1_6.2-2)
+* 6.10-1. [DICOM媒体交换通信模型](#PS3.1_6.10-1)
+* 6.11-1. [应用配置文件和DICOM部件之间的关系](#PS3.1_6.11-1)
+* 6.19-1. [应用程序和系统直接的接口](#PS3.1_6.19-1)
+* 6.19-2. [平台无关的应用程序](#PS3.1_6.19-2)
 
 ### <a name="notice-and-disclaimer"></a> 声明
 
