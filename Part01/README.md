@@ -18,7 +18,7 @@
 * [3. 名词释义](#definitions)
 * [4. 符号和缩写](#symbols-and-abbreviations)
 * [5. DICOM通信模型](#the-dicom-communication-model)
-* [6.DICOM标准概述](#overview-of-the-content-of-the-dicom-standard)
+* [6. DICOM标准概述](#overview-of-the-content-of-the-dicom-standard)
     * [6.1. 文档结构](#document-structure)
     * [6.2. PS3.2: 一致性](#ps3-2-conformance)
     * [6.3. PS3.3: 信息对象定义](#ps3-3-information-object-definitions)
@@ -353,7 +353,7 @@ DICOM标准是为了帮助符合标准的设备之间的交互，特别是：
 
 #### 6.1 <a name="document-structure"></a> 文档结构
 
-DICOM包含虾米那这些内容：
+DICOM包含下面那这些内容：
 
 * PS3.1: 总览（当前文档）
 * [PS3.2: 一致性](../Part02/)
@@ -378,6 +378,28 @@ DICOM包含虾米那这些内容：
 * [PS3.21: DICOM协议和其他表达方式的转换](../Part21)
 
 这些内容相互关联但彼此独立。下面是每个部分的概述。
+
+#### 6.2 <a name="ps3-2-conformance"></a> PS3.2: 一致性
+
+[PS3.2](../Part02/)定义了实现标准应该遵循的原则：
+
+* 一致性要求。[PS3.2](../Part02/)规定了符合要求的任何实现都必须满足的基本要求。并引用了本标准其他部分的一致性内容。
+* 一致性声明。[PS3.2](../Part02/)定义了一致性声明的结构。他制定了一致性声明中必须包含的信息。并引用了本标准其他部分的一致性内容。
+
+[PS3.2](../Part02/)没有指定任何测试或验证程序来评估标准的实现是否符合标准。
+
+[图表 6.2-1](#PS3.1_6.2-1) 和 [图表 6.2-1](#PS3.1_6.2-1) 描绘了用于网络通信和媒体交换的一致性声明的构建过程。一致性声明友以下部分组成：
+
+* 标准实现可识别的信息对象集
+* 标准实现支持的服务类集
+* 标准实现支持的通信协议集或者物理媒体集
+* 标准实现支持的安全措施集
+
+<p align="center"><img src="PS3.1_6.2-1.svg"/></p>
+<p align="center"><a name="PS3.1_6.2-1"></a>图表6.2-1 网络一致性声明的构建过程</p>
+
+<p align="center"><img src="PS3.1_6.2-2.svg"/></p>
+<p align="center"><a name="PS3.1_6.2-2"></a>图表6.2-1 媒体一致性声明的构建过程</p>
 
 ## 译者注
 

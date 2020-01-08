@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="340px" viewBox="0 0 500 340" enable-background="new 0 0 500 340"
+	 xml:space="preserve">
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.1 Part 1: Introduction and Overview
+   </desc>
+   <title>
+	Figure 6.2-2 Construction Process for a Media Conformance Claim
+   </title>
+</g>
+<rect x="1" y="1" fill="#F5EED6" width="498" height="338"/>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M241.265,165.877c0-1.98,1.62-3.6,3.6-3.6h82.169c1.979,0,3.6,1.62,3.6,3.6v22.308
+			c0,1.979-1.62,3.6-3.6,3.6h-82.169c-1.98,0-3.6-1.62-3.6-3.6V165.877z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M241.265,165.877c0-1.98,1.62-3.6,3.6-3.6h82.169c1.979,0,3.6,1.62,3.6,3.6v22.308c0,1.979-1.62,3.6-3.6,3.6h-82.169
+			c-1.98,0-3.6-1.62-3.6-3.6V165.877z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 261.4985 174.458)"><tspan x="0" y="0" font-size="8">Service Class</tspan><tspan x="-0.229" y="9.6" font-size="8">Specifications</tspan></text>
+	<text transform="matrix(1 0 0 1 240.8901 157.1343)" font-size="9">PS3.4</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M126.495,165.874c0-1.98,1.62-3.6,3.6-3.6h82.166c1.98,0,3.6,1.62,3.6,3.6v22.309
+			c0,1.979-1.62,3.6-3.6,3.6h-82.166c-1.98,0-3.6-1.62-3.6-3.6V165.874z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M126.495,165.874c0-1.98,1.62-3.6,3.6-3.6h82.166c1.98,0,3.6,1.62,3.6,3.6v22.309c0,1.979-1.62,3.6-3.6,3.6h-82.166
+			c-1.98,0-3.6-1.62-3.6-3.6V165.874z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 139.604 174.4512)"><tspan x="0" y="0" font-size="8">Media Application</tspan><tspan x="20.236" y="9.601" font-size="8">Profile</tspan></text>
+	<text transform="matrix(1 0 0 1 126.1206 157.854)" font-size="9">PS3.10</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M241.265,107.988c0-1.98,1.62-3.6,3.6-3.6h82.169c1.979,0,3.6,1.62,3.6,3.6v22.306
+			c0,1.98-1.62,3.6-3.6,3.6h-82.169c-1.98,0-3.6-1.62-3.6-3.6V107.988z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M241.265,107.988c0-1.98,1.62-3.6,3.6-3.6h82.169c1.979,0,3.6,1.62,3.6,3.6v22.306c0,1.98-1.62,3.6-3.6,3.6h-82.169
+			c-1.98,0-3.6-1.62-3.6-3.6V107.988z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 265.9399 116.5635)"><tspan x="0" y="0" font-size="8">Information</tspan><tspan x="-11.338" y="9.6" font-size="8">Object Definitions</tspan></text>
+	<text transform="matrix(1 0 0 1 240.8901 100.5942)" font-size="9">PS3.3</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M126.495,107.988c0-1.98,1.62-3.6,3.6-3.6h82.166c1.98,0,3.6,1.62,3.6,3.6v22.306c0,1.98-1.62,3.6-3.6,3.6
+			h-82.166c-1.98,0-3.6-1.62-3.6-3.6V107.988z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M126.495,107.988c0-1.98,1.62-3.6,3.6-3.6h82.166c1.98,0,3.6,1.62,3.6,3.6v22.306c0,1.98-1.62,3.6-3.6,3.6h-82.166
+			c-1.98,0-3.6-1.62-3.6-3.6V107.988z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 137.6035 116.5635)"><tspan x="0" y="0" font-size="8">Data Structure and</tspan><tspan x="14.9" y="9.6" font-size="8">Semantics</tspan></text>
+	<text transform="matrix(1 0 0 1 126.1206 99.874)" font-size="9">PS3.5</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M12.089,108.027c0-1.98,1.62-3.6,3.6-3.6h82.048c1.98,0,3.6,1.62,3.6,3.6v22.227c0,1.98-1.62,3.6-3.6,3.6
+			H15.689c-1.98,0-3.6-1.62-3.6-3.6V108.027z"/>
+		<path fill="none" stroke="#000000" stroke-width="0.75" d="M12.089,108.027c0-1.98,1.62-3.6,3.6-3.6h82.048
+			c1.98,0,3.6,1.62,3.6,3.6v22.227c0,1.98-1.62,3.6-3.6,3.6H15.689c-1.98,0-3.6-1.62-3.6-3.6V108.027z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 29.3701 121.3672)" font-size="8">Data Dictionary</text>
+	<text transform="matrix(1 0 0 1 11.7114 100.5933)" font-size="9">PS3.6</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M241.314,223.28c0-1.979,1.62-3.6,3.6-3.6h82.119c1.979,0,3.6,1.62,3.6,3.6v22.293
+			c0,1.979-1.62,3.6-3.6,3.6h-82.119c-1.98,0-3.6-1.62-3.6-3.6V223.28z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M241.314,223.28c0-1.979,1.62-3.6,3.6-3.6h82.119c1.979,0,3.6,1.62,3.6,3.6v22.293c0,1.979-1.62,3.6-3.6,3.6h-82.119
+			c-1.98,0-3.6-1.62-3.6-3.6V223.28z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 256.1792 227.0547)"><tspan x="0" y="0" font-size="8">Media Storage &amp;</tspan><tspan x="3.791" y="9.601" font-size="8">File Format for</tspan><tspan x="-0.893" y="19.2" font-size="8">Data Interchange</tspan></text>
+	<text transform="matrix(1 0 0 1 240.9399 214.8994)" font-size="9">PS3.11</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M126.495,223.272c0-1.979,1.62-3.6,3.6-3.6h82.166c1.98,0,3.6,1.62,3.6,3.6v22.309
+			c0,1.979-1.62,3.6-3.6,3.6h-82.166c-1.98,0-3.6-1.62-3.6-3.6V223.272z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M126.495,223.272c0-1.979,1.62-3.6,3.6-3.6h82.166c1.98,0,3.6,1.62,3.6,3.6v22.309c0,1.979-1.62,3.6-3.6,3.6h-82.166
+			c-1.98,0-3.6-1.62-3.6-3.6V223.272z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 140.6724 227.041)"><tspan x="0" y="0" font-size="8">Media Formats &amp;</tspan><tspan x="-2.227" y="9.601" font-size="8">Physical Media for</tspan><tspan x="-0.234" y="19.2" font-size="8">Data Interchange</tspan></text>
+	<text transform="matrix(1 0 0 1 126.1206 214.8936)" font-size="9">PS3.12</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M12.089,223.347c0-1.979,1.62-3.6,3.6-3.6h82.048c1.98,0,3.6,1.62,3.6,3.6v22.23c0,1.979-1.62,3.6-3.6,3.6
+			H15.689c-1.98,0-3.6-1.62-3.6-3.6V223.347z"/>
+		<path fill="none" stroke="#010101" stroke-width="0.75" d="M12.089,223.347c0-1.979,1.62-3.6,3.6-3.6h82.048
+			c1.98,0,3.6,1.62,3.6,3.6v22.23c0,1.979-1.62,3.6-3.6,3.6H15.689c-1.98,0-3.6-1.62-3.6-3.6V223.347z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 27.8159 236.6895)" font-size="8">Security Profiles</text>
+	<text transform="matrix(1 0 0 1 11.7148 215.5518)" font-size="9">PS3.15</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M241.265,50.776c0-1.98,1.62-3.6,3.6-3.6h82.169c1.979,0,3.6,1.62,3.6,3.6v22.307c0,1.98-1.62,3.6-3.6,3.6
+			h-82.169c-1.98,0-3.6-1.62-3.6-3.6V50.776z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M241.265,50.776c0-1.98,1.62-3.6,3.6-3.6h82.169c1.979,0,3.6,1.62,3.6,3.6v22.307c0,1.98-1.62,3.6-3.6,3.6h-82.169
+			c-1.98,0-3.6-1.62-3.6-3.6V50.776z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 255.4849 59.3525)"><tspan x="0" y="0" font-size="8">Content Mapping</tspan><tspan x="13.346" y="9.6" font-size="8">Resource</tspan></text>
+	<text transform="matrix(1 0 0 1 240.8901 42.6538)" font-size="9">PS3.16</text>
+</g>
+<g>
+	<g>
+		<path fill="#CCDEF0" d="M126.494,50.776c0-1.98,1.62-3.6,3.6-3.6h82.167c1.98,0,3.6,1.62,3.6,3.6v22.308c0,1.98-1.62,3.6-3.6,3.6
+			h-82.167c-1.98,0-3.6-1.62-3.6-3.6V50.776z"/>
+		
+			<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M126.494,50.776c0-1.98,1.62-3.6,3.6-3.6h82.167c1.98,0,3.6,1.62,3.6,3.6v22.308c0,1.98-1.62,3.6-3.6,3.6h-82.167
+			c-1.98,0-3.6-1.62-3.6-3.6V50.776z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 136.5034 59.3525)"><tspan x="0" y="0" font-size="8">Grayscale Standard</tspan><tspan x="5.783" y="9.6" font-size="8">Display Function</tspan></text>
+	<text transform="matrix(1 0 0 1 126.1191 41.9336)" font-size="9">PS3.14</text>
+</g>
+<g>
+	
+		<rect x="355.676" y="36.226" fill="#B2CEE7" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="132" height="285.207"/>
+	<g>
+		<g>
+			<path fill="#CCDEF0" d="M376.993,50.776c0-1.98,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v22.308
+				c0,1.98-1.62,3.6-3.6,3.6h-82.168c-1.979,0-3.6-1.62-3.6-3.6V50.776z"/>
+			
+				<path fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M376.993,50.776c0-1.98,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v22.308c0,1.98-1.62,3.6-3.6,3.6h-82.168
+				c-1.979,0-3.6-1.62-3.6-3.6V50.776z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 394.3267 59.3525)"><tspan x="0" y="0" font-size="8">Implementation</tspan><tspan x="16.453" y="9.6" font-size="8">Model</tspan></text>
+	</g>
+	<text transform="matrix(1 0 0 1 354.9731 23.0332)"><tspan x="0" y="0" font-size="9">DICOM Conformance</tspan><tspan x="0.991" y="10.8" font-size="9">Statement Document</tspan></text>
+	<g>
+		
+			<rect x="366.991" y="104.346" fill="#86B2D8" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="109.369" height="204.928"/>
+		<g>
+			<g>
+				<path fill="#CCDEF0" d="M376.993,112.94c0-1.98,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v68.678
+					c0,1.979-1.62,3.6-3.6,3.6h-82.168c-1.979,0-3.6-1.62-3.6-3.6V112.94z"/>
+				
+					<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M376.993,112.94c0-1.98,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v68.678c0,1.979-1.62,3.6-3.6,3.6h-82.168
+					c-1.979,0-3.6-1.62-3.6-3.6V112.94z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 396.7769 130.2998)"><tspan x="0" y="0" font-size="8">SOP Classes,</tspan><tspan x="13.559" y="9.6" font-size="8">Roles,</tspan><tspan x="18.223" y="19.2" font-size="8">and</tspan><tspan x="10.004" y="28.8" font-size="8">Transfer</tspan><tspan x="8.443" y="38.4" font-size="8">Syntaxes</tspan></text>
+		</g>
+		<g>
+			<g>
+				<path fill="#CCDEF0" d="M376.993,274.665c0-1.979,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v22.309
+					c0,1.979-1.62,3.6-3.6,3.6h-82.168c-1.979,0-3.6-1.62-3.6-3.6V274.665z"/>
+				
+					<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M376.993,274.665c0-1.979,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v22.309c0,1.979-1.62,3.6-3.6,3.6h-82.168
+					c-1.979,0-3.6-1.62-3.6-3.6V274.665z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 388.5503 288.0469)" font-size="8">Security Measures</text>
+		</g>
+		<g>
+			<g>
+				<path fill="#CCDEF0" d="M376.993,223.272c0-1.979,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v22.309
+					c0,1.979-1.62,3.6-3.6,3.6h-82.168c-1.979,0-3.6-1.62-3.6-3.6V223.272z"/>
+				
+					<path fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M376.993,223.272c0-1.979,1.62-3.6,3.6-3.6h82.168c1.979,0,3.6,1.62,3.6,3.6v22.309c0,1.979-1.62,3.6-3.6,3.6h-82.168
+					c-1.979,0-3.6-1.62-3.6-3.6V223.272z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 394.7739 236.6543)" font-size="8">Physical Media</text>
+		</g>
+		<text transform="matrix(1 0 0 1 367.0464 98.9141)" font-size="9">Application Profiles</text>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="285.949" y1="76.927" x2="285.949" y2="97.702"/>
+			<g>
+				<polygon fill="#010101" points="283.77,96.216 285.949,104.346 288.127,96.216 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="101.265" y1="119.14" x2="119.995" y2="119.14"/>
+			<g>
+				<polygon fill="#010101" points="118.509,121.319 126.64,119.14 118.509,116.961 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="101.265" y1="234.462" x2="119.995" y2="234.462"/>
+			<g>
+				<polygon fill="#010101" points="118.509,236.641 126.64,234.462 118.509,232.283 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="215.861" y1="234.427" x2="234.592" y2="234.427"/>
+			<g>
+				<polygon fill="#010101" points="233.106,236.605 241.236,234.427 233.106,232.248 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="215.861" y1="177.03" x2="234.592" y2="177.03"/>
+			<g>
+				<polygon fill="#010101" points="233.106,179.209 241.236,177.03 233.106,174.852 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="215.861" y1="119.14" x2="234.592" y2="119.14"/>
+			<g>
+				<polygon fill="#010101" points="233.106,121.319 241.236,119.14 233.106,116.961 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" points="215.861,61.93 226.438,61.93 
+				226.438,113.051 234.592,113.051 			"/>
+			<g>
+				<polygon fill="#010101" points="233.106,115.23 241.236,113.051 233.106,110.872 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="330.633" y1="234.427" x2="370.591" y2="234.427"/>
+			<g>
+				<polygon fill="#010101" points="369.105,236.605 377.236,234.427 369.105,232.248 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="330.633" y1="177.03" x2="370.591" y2="177.03"/>
+			<g>
+				<polygon fill="#010101" points="369.105,179.209 377.236,177.03 369.105,174.852 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.75" stroke-linejoin="round" x1="330.633" y1="119.14" x2="370.591" y2="119.14"/>
+			<g>
+				<polygon fill="#010101" points="369.105,121.319 377.236,119.14 369.105,116.961 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="square" stroke-linejoin="round" points="
+				370.259,64.449 345.164,64.449 345.164,119.259 			"/>
+			<g>
+				<polygon fill="#010101" points="368.773,62.27 376.904,64.449 368.773,66.628 				"/>
+			</g>
+			<g>
+				<rect x="342.688" y="116.66" fill="#010101" width="4.951" height="4.951"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#010101" stroke-width="0.75" stroke-linecap="square" stroke-linejoin="round" points="
+				370.259,285.819 111.335,285.819 111.335,234.493 			"/>
+			<g>
+				<polygon fill="#010101" points="368.773,283.641 376.904,285.819 368.773,287.998 				"/>
+			</g>
+			<g>
+				<rect x="108.86" y="232.142" fill="#010101" width="4.951" height="4.951"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
