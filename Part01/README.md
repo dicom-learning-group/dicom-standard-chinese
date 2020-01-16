@@ -432,6 +432,14 @@ DICOM包含下面那这些内容：
 
 [PS3.4](../Part04/README.md)定义了如何操作[PS3.3](../Part03/README.md)中的信息对象。[PS3.7](../Part07/README.md)定义了使用指令完成[PS3.4](../Part04/README.md)操作和通知的指令集和协议。
 
+#### <a name="ps3-5-data-structure-and-semantics"></a> PS3.5: 数据结构和编码
+
+[PS3.5](../Part05/README.md)说明了DICOM应用如何来构建和编码[PS3.3](../Part03/README.md)的信息对象和[PS3.4](../Part04/README.md)的服务类中使用的数据集信息。包括一系列的图像压缩标准（例如JPEG无损和有损）。
+
+[PS3.5](../Part05/README.md)解决了构建[PS3.7](../Part07/README.md)中传达信息的数据流所需的编码规则。这个数据流是从组成数据集的数据元素中产生的。
+
+[PS3.5](../Part05/README.md)同时定义了许多信息对象都使用的通用方法的语法。[PS3.5](../Part05/README.md)定义了DICOM中使用的国际字符集的编码规则。
+
 ## 译者注
 
 [1] <a name="nema">NEMA</a>: 美国国家电气制造商协会
