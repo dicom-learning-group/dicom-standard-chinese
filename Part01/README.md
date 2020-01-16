@@ -22,24 +22,24 @@
     * [6.1. 文档结构](#document-structure)
     * [6.2. PS3.2: 一致性](#ps3-2-conformance)
     * [6.3. PS3.3: 信息对象定义](#ps3-3-information-object-definitions)
-    * [6.4. PS3.4: 服务类标准](#ps3.4-service-class-specifications)
+    * [6.4. PS3.4: 服务类标准](#ps3-4-service-class-specifications)
     * [6.5. PS3.5: 数据结构和编码](#ps3-5-data-structure-and-semantics)
-    * [6.6. PS3.6: 数据字典]()
-    * [6.7. PS3.7: 消息交换]()
-    * [6.8. PS3.8: 消息交换的网络通信支持]()
+    * [6.6. PS3.6: 数据字典](#ps3-6-data-dictionary)
+    * [6.7. PS3.7: 消息交换](#ps3-7-message-exchange)
+    * [6.8. PS3.8: 消息交换的网络通信支持](#ps3-8-network-communication-support-for-message-exchange)
     * [6.9. PS3.9: 不再使用(消息交换的点对点通信支持)](#ps3-9-point-to-point-communication-support-for-message-exchange)
-    * [6.10. PS3.10: 用于媒体交换的媒体存储和文件格式]()
-    * [6.11. PS3.11: 媒体存储的应用配置]()
-    * [6.12. PS3.12: 媒体交换的格式和物理媒介]()
+    * [6.10. PS3.10: 用于媒体交换的媒体存储和文件格式](#ps3-10-media-storage-and-file-format-for-media-interchange)
+    * [6.11. PS3.11: 媒体存储的应用配置](#ps3-11-media-storage-application-profiles)
+    * [6.12. PS3.12: 媒体交换的格式和物理媒介](#ps3-12-storage-functions-and-media-formats-for-data-interchange)
     * [6.13. PS3.13: 不再使用(点对点通信的打印管理服务支持)](#ps3-13-print-management-point-to-point-communication-support)
-    * [6.14. PS3.14: 灰度标准显示功能]()
-    * [6.15. PS3.15: 安全性和系统管理配置]()
-    * [6.16. PS3.16: 内容映射资源]()
-    * [6.17. PS3.17: 解释性信息]()
-    * [6.18. PS3.18: Web服务]()
-    * [6.19. PS3.19: 应用托管]()
-    * [6.20. PS3.20: 使用HL7临床文档结构的影像报告]()
-    * [6.21. PS3.21: DICOM标准和其他表达方式的转换]()
+    * [6.14. PS3.14: 灰度标准显示功能](#ps-3-14-grayscale-standard-display-function)
+    * [6.15. PS3.15: 安全性和系统管理配置](#ps3-15-security-and-system-management-profiles)
+    * [6.16. PS3.16: 内容映射资源](#ps3-16-content-mapping-resource)
+    * [6.17. PS3.17: 解释性信息](#ps3-17-explanatory-information)
+    * [6.18. PS3.18: Web服务](#ps3-18-web-services)
+    * [6.19. PS3.19: 应用托管](#ps3-19-application-hosting)
+    * [6.20. PS3.20: 使用HL7临床文档结构的影像报告](#ps3-20-imaging-reports-using-hl7-clinical-document-architecture)
+    * [6.21. PS3.21: DICOM标准和其他表达方式的转换](#ps3-21-transformation-between-dicom-and-other-regresentations)
 * [7. 参考说明](#referencing-the-dicom-standard)
 
 ## 图表
@@ -417,7 +417,7 @@ DICOM包含下面那这些内容：
 
 一个信息对象实例对应着显示世界实体的一种表现。它包括信息对象类熟悉的值，这些值可能随着时间发生变化，以准确反映其代表实体的状态变化。这是通过对信息对象实例执行不同的基本操作以呈现定义为服务类的一组特定服务来实现的。 这些服务等级在标准的[PS3.4](../Part04/README.md)中定义。
 
-#### 6.4 <a name="ps3.4-service-class-specifications"></a> PS3.4: 服务类标准
+#### 6.4 <a name="ps3-4-service-class-specifications"></a> PS3.4: 服务类标准
 
 [PS3.4](../Part04/README.md)定义了一系列的服务类。服务类将一个或多个信息对象与要在这些对象上执行的一个或多个命令相关联。服务类标准说明了指令元素的要求以及如何将生成的指令应用于信息对象。服务类标准规定了对通信服务提供商和用户的要求。
 
