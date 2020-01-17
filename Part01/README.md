@@ -478,6 +478,10 @@ DICOM上层服务的定义包括DICOM上层协议和TCP/IP协议。
 
 [PS3.8](../Part08/README.md)中所说的TCP/IP协议是一种通用的协议，并不局限于DICOM标准。[图表5-1](#PS3.1_5-1)展示了DICOM协议栈。
 
+#### <a name="ps3-9-point-to-point-communication-support-for-message-exchange"></a>不再使用(点对点通信的打印管理服务支持)
+
+PS3.9之前是定义和ACR-NEMA2.0兼容的点对点通信的服务无和协议。现在已不再使用。
+
 ## 译者注
 
 [1] <a name="nema">NEMA</a>: 美国国家电气制造商协会
