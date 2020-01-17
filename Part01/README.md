@@ -470,6 +470,14 @@ DICOM包含下面那这些内容：
 * 控制指令请求和响应的规则
 * 构造指令流和消息所需的编码规则
 
+#### <a name="ps3-8-network-communication-support-for-message-exchange"></a> PS3.8: 消息交换的网络通信支持
+
+[PS3.8](../Part08/README.md)指定了需要支持的通信服务和上层协议。在网络环境中，DICOM应用之间的通信在[PS3.3](../Part03/README.md)，[PS3.4](../Part04/README.md)，[PS3.6](../Part06/README.md)，[PS3.7](../Part07/README.md)中定义。这些通信服务和协议保证了DICOM应用在网络环境之间的通信有效而且协调。
+
+DICOM上层服务的定义包括DICOM上层协议和TCP/IP协议。
+
+[PS3.8](../Part08/README.md)中所说的TCP/IP协议是一种通用的协议，并不局限于DICOM标准。[图表5-1](#PS3.1_5-1)展示了DICOM协议栈。
+
 ## 译者注
 
 [1] <a name="nema">NEMA</a>: 美国国家电气制造商协会
